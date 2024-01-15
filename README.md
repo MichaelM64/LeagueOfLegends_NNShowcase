@@ -1,3 +1,5 @@
+# Deep Learning (Neural Networks) Showcase
+
 The purpose of this repository is to demonstrate a proficient understanding and application of Neural Networks.
 
 Project Goals: Implement a neural network on a custom dataset following Tensorflow documentation tutorials. Emphasizing "rapid prototyping," evaluate two architectures with dynamically created model functions for hyperparameter grid search. 
